@@ -1,0 +1,29 @@
+.card .card-image img {
+    height: 260px;
+}
+
+.card .card-action:last-child {
+    text-align: center;
+}
+
+.card .btn-floating {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.card .card-reveal .card-title {
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.card .card-content .card-title {
+    font-weight: bold;
+    font-size: xx-large;
+    text-transform: capitalize;
+}
+
+.collection .collection-item span {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: bold;
+}

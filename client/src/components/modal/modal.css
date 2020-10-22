@@ -1,0 +1,23 @@
+.modal {
+    max-height: 80%;
+    border-radius: 15px;
+}
+
+.modal .modal-footer {
+    text-align: center;
+    margin-bottom: 35px;
+    padding: 0;
+}
+
+.modal h1, .modal h2, .modal h3, .modal h4 {
+    text-transform: uppercase;
+    text-align: center;
+    margin: 35px;
+    font-weight: bold;
+}
+
+.modal .modal-footer .btn, .modal .modal-footer .btn-large, .modal .modal-footer .btn-small, .modal .modal-footer .btn-flat {
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 120px;
+}

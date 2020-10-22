@@ -1,0 +1,8 @@
+html, body, #root, .App {
+    height: 100%;
+}
+
+/* Because this library is limited and have bugs. This prevent modal from change overflow style :( */
+body {
+    overflow: visible !important;
+}
